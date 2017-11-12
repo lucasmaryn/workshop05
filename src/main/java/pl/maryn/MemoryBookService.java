@@ -9,7 +9,6 @@ import java.util.List;
 public class MemoryBookService {
     private List<Book> list;
 
-
     public MemoryBookService() {
         list = new ArrayList<>();
         list.add(new Book(1L, "9788324631766", "Thinking in Java", "Bruce Eckel", "Helion", "Programming"));
