@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="243d492e-e783-4844-bfd5-1dbf18c3ba40" name="Default" comment="changes">
+    <list default="true" id="243d492e-e783-4844-bfd5-1dbf18c3ba40" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/maryn/MemoryBookService.java" afterPath="$PROJECT_DIR$/src/main/java/pl/maryn/MemoryBookService.java" />
     </list>
@@ -70,14 +70,12 @@
       <file leaf-file-name="MemoryBookService.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/maryn/MemoryBookService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="456">
+              <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#628#629#0" expanded="true" />
                 <element signature="e#655#656#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-                <element signature="e#731#732#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -538,7 +536,7 @@
       <workItem from="1510146682084" duration="265000" />
       <workItem from="1510146973840" duration="1183000" />
       <workItem from="1510150051656" duration="7649000" />
-      <workItem from="1510484687879" duration="5250000" />
+      <workItem from="1510484687879" duration="5333000" />
     </task>
     <task id="LOCAL-00001" summary="creating project">
       <created>1510147487787</created>
@@ -561,11 +559,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510493212007</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changes">
+      <created>1510493732297</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1510493732297</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14347000" />
+    <option name="totallyTimeSpent" value="14430000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -689,8 +694,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#628#629#0" expanded="true" />
             <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -848,14 +851,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/maryn/MemoryBookService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="456">
+          <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#628#629#0" expanded="true" />
             <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
           </folding>
         </state>
       </provider>

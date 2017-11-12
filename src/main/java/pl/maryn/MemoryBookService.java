@@ -22,5 +22,6 @@ public class MemoryBookService {
 
     public void setList(List<Book> list) {
         this.list = list;
+        //zmiany
     }
 }
